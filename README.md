@@ -13,3 +13,7 @@ I was the only one in my group, so I completed the project on my own. I was able
 ## What Was New
 
 For this game I used sound, which we had not previously worked with at all, as well as millis, which we had only worked with minimally. I expanded upon our use of millis to create the game and connected it with mouse events and sound effects to bring everything together. 
+
+## Attribution
+
+Sound effects obtained from https://www.zapsplat.com
