@@ -1,4 +1,4 @@
-# PetTheCat
+# Pet The Cat
 
 https://belleagost.github.io/PetTheCat/
 
