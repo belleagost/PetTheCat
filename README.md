@@ -16,4 +16,4 @@ For this game I used sound, which we had not previously worked with at all, as w
 
 ## Attribution
 
-Sound effects obtained from https://www.zapsplat.com
+Sound effects were obtained from https://www.zapsplat.com
